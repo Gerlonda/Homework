@@ -1,0 +1,25 @@
+body {
+  background-color: aquamarine;
+}
+
+.H{
+  border: 4px red solid;
+}
+
+#htwo {
+  padding: 5px;
+}
+
+header {
+  padding: .5em;
+  background-color: #3e1983;
+}
+
+main{
+  padding: .5em;
+}
+
+footer {
+  padding: .5em;
+  background-color: #3e1983;
+}
